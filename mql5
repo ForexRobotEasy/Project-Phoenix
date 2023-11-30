@@ -1,0 +1,69 @@
+
+// Program: Project Phoenix
+// Developer's Site: forexroboteasy.com
+// Development: Forex Robot Easy Team
+
+// This program implements a medium-term trading strategy based on wave movement theory in the forex market
+
+// Wave Analysis and Price Prediction
+// Implement wave analysis on historical data to identify patterns for predicting future price movements
+// Analyze longer periods of time to identify repeating patterns
+// Use smaller periods for approximation and interpolation of nodal points
+// Refine patterns and enhance the accuracy of price predictions
+// Utilize an extrapolator to make predictions based on three waves of different periods
+// Build a predictive model of price behavior based on the analyzed data
+
+// Trading Functions
+// Implement buying and selling functions based on the predicted price movements
+// Develop a function to calculate position sizes based on risk management parameters
+// Include stop loss and take profit functions to manage trades
+// Implement trailing stop functions to protect profits and limit losses
+// Develop functions for monitoring and adjusting trading parameters based on market conditions
+// Include functions for monitoring account balance, equity, and available margin
+// Implement functions for logging and analyzing trading results
+
+// Code Requirements
+// Develop clean, well-organized, and modular code
+// Use appropriate coding conventions and best practices
+// Ensure code efficiency and optimization
+// Implement error handling and exception handling mechanisms
+// Write clear and concise comments to enhance code readability
+// Use appropriate data structures and algorithms for efficient processing
+// Test and debug the code thoroughly to ensure functionality and reliability
+
+// Main function
+void OnTick()
+{
+    // Wave Analysis and Price Prediction
+    // TODO: Implement wave analysis on historical data
+
+    // Trading Functions
+    // TODO: Implement buying and selling functions based on predicted price movements
+    // TODO: Implement function to calculate position sizes based on risk management parameters
+    // TODO: Include stop loss and take profit functions to manage trades
+    // TODO: Implement trailing stop functions to protect profits and limit losses
+    // TODO: Develop functions for monitoring and adjusting trading parameters based on market conditions
+    // TODO: Include functions for monitoring account balance, equity, and available margin
+    // TODO: Implement functions for logging and analyzing trading results
+}
+
+// Additional functions
+// TODO: Implement wave analysis function
+
+// TODO: Implement buying function
+
+// TODO: Implement selling function
+
+// TODO: Implement position size calculation function
+
+// TODO: Implement stop loss function
+
+// TODO: Implement take profit function
+
+// TODO: Implement trailing stop function
+
+// TODO: Implement function for monitoring and adjusting trading parameters
+
+// TODO: Implement function for monitoring account balance, equity, and available margin
+
+// TODO: Implement function for logging and analyzing trading results
